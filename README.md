@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @talalhabib
+- 👋 Hi, I’m Talal Habib
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on intresting Python Projects
