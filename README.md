@@ -1,4 +1,4 @@
-![Design and Development](https://graphicsfamily.com/wp-content/uploads/edd/2020/11/Tasty-Food-Web-Banner-Design-scaled.jpg)
+<!-- ![Design and Development](https://graphicsfamily.com/wp-content/uploads/edd/2020/11/Tasty-Food-Web-Banner-Design-scaled.jpg) -->
 
 ### Talal Habib
 
@@ -22,7 +22,7 @@ I'm Talal Habib from Pakistan, and I do content on Design and Development.I real
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talalhabib0000&show_icons=true&theme=radical)](https://github.com/talalhabib0000/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talalhabib0000)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talalhabib0000&theme=radical)
 
 
 <!-- 
