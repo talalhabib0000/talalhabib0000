@@ -1,6 +1,6 @@
 <!-- ![Design and Development](https://graphicsfamily.com/wp-content/uploads/edd/2020/11/Tasty-Food-Web-Banner-Design-scaled.jpg) -->
 
-### Talal Habib
+### <Center Talal Habib />
 
 I'm Talal Habib from Pakistan, and I do content on Design and Development.I really enjoy learning languages and frameworks like React and Flutter, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
