@@ -12,7 +12,7 @@ I'm Talal Habib from Pakistan, and I do content on Design and Development.I real
 - 📫 How to reach me:  Let's get in touch! Email: talalhabib0000@gmail.com
 
 <p align="center">
-<a href="https://www.linkedin.com/in/Talal Habib/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/talal-habib-9820b71b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:talalhabib0000@gmail.com?subject=Please Write Subject"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <hr/>
 </p>
