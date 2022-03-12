@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I’m Talal Habib 👋</h1>
+### Hi there 👋
 
-<h5  align="center">I am graduate as Software Engineer.</h5>
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Talal Habib" />
-</p>
+I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true)  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/talal-habib-9820b71b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
