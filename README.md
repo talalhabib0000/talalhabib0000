@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+I'm TalalHabib from Pakistan, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and Flutter, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true)  
 
