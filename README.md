@@ -26,16 +26,17 @@ I'm TalalHabib from Pakistan, and I do content on Design and Development. I real
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalalHabib&show_icons=true&theme=radical)](https://github.com/talalhabib0000/github-readme-stats)
 
 
-
-Talal Habib
-#### Design and Development
 ![Design and Development](https://graphicsfamily.com/wp-content/uploads/edd/2020/11/Tasty-Food-Web-Banner-Design-scaled.jpg)
+**Talal Habib**
 
-I'm Talal Habib from Pakistan, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and Flutter, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+I'm Talal Habib from Pakistan, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and Flutter, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
 Skills: Flutter / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
 
 
 
