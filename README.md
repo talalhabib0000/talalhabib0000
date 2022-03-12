@@ -11,6 +11,8 @@ I'm Talal Habib from Pakistan, and I do content on Design and Development.I real
 - 💬 Ask me about MERN Stack Development or any tech-related stuff.
 - 📫 How to reach me:  Let's get in touch! Email: talalhabib0000@gmail.com
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/talalhabib0000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Talal Habib/)  
+
 **Skills and Experience**
 
 - ⚛ React
@@ -48,6 +50,6 @@ Skills: Flutter / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning MERN Stack 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/talalhabib0000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Talal Habib/)  
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true)   -->
