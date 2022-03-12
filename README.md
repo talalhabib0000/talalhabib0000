@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/talal-habib-9820b71b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:qasidali856@gmail.com?subject=Hola%20Talha"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:talalhabib0000@gmail.com?subject=Subject"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <hr/>
 </p>
 
