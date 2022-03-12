@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talalhabib&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true&theme=radical)
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalalHabib&show_icons=true&theme=radical)](https://github.com/talalhabib/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalalHabib&show_icons=true&theme=radical)](https://github.com/talalhabib0000/github-readme-stats)
