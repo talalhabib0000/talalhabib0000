@@ -25,3 +25,21 @@
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalalHabib&show_icons=true&theme=radical)](https://github.com/talalhabib0000/github-readme-stats)
+
+
+
+
+
+### Hi there 👋, my name is Talal Habib
+#### I am A Software Engineer
+![I am A Software Engineer](https://talalhabib0000.github.io/github-profile-readme-generator/images/banner.png)
+
+I have done software engineering as major now I am working as MERN Stack Developer and Flutter Developer.
+
+Skills: Flutter / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
