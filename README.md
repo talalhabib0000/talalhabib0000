@@ -1,8 +1,5 @@
-### Hi there 👋
 
-I'm TalalHabib from Pakistan, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and Flutter, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true)  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/talal-habib-9820b71b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -34,6 +31,22 @@ I'm Talal Habib from Pakistan, and I do content on Design and Development. I rea
 Skills: Flutter / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+### Hi there 👋, Talal Habib
+#### Design and Development
+![Design and Development](https://graphicsfamily.com/wp-content/uploads/edd/2020/11/Tasty-Food-Web-Banner-Design-scaled.jpg)
+
+I'm Talal Habib from Pakistan, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and Flutter, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+
+Skills: Flutter / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on My own Company 
+- 🌱 I’m currently learning MERN Stack 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/talalhabib0000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Talal Habib/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true)  
+
 
 
 
