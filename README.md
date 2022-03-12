@@ -27,13 +27,11 @@ I'm TalalHabib from Pakistan, and I do content on Design and Development. I real
 
 
 
+Talal Habib
+#### Design and Development
+![Design and Development](https://graphicsfamily.com/wp-content/uploads/edd/2020/11/Tasty-Food-Web-Banner-Design-scaled.jpg)
 
-
-### Hi there 👋, my name is Talal Habib
-#### I am A Software Engineer
-![I am A Software Engineer](https://talalhabib.github.io/github-profile-readme-generator/images/banner.png)
-
-I have done software engineering as major now I am working as MERN Stack Developer and Flutter Developer.
+I'm Talal Habib from Pakistan, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and Flutter, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
 Skills: Flutter / REACT / JS / HTML / CSS
 
