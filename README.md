@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on web development projects.
-- 🌱 I’m currently learning MERN Stack Development.
+- 🌱 I’m currently learning MERN Stack Development and Flutter Development.
 - 👯 I’m looking to collaborate with other Developers 😉
 - 🤔 I’m looking to contribute in software engineering related work.
 - 💬 Ask me about MERN Stack Development or any tech-related stuff.
