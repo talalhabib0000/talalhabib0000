@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate with other Developers 😉
 - 🤔 I’m looking for help with any software engineering related Task.
 - 💬 Ask me about MERN Stack Development or any tech-related stuff.
-- 📫 How to reach me:  Let's get in touch! Email : qasidali856@gmail.com
+- 📫 How to reach me:  Let's get in touch! Email : talalhabib0000@gmail.com
 
 <br/>
 <br/>
