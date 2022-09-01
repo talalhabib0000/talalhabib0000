@@ -19,8 +19,8 @@ I'm Talal Habib from Pakistan, and I do content on Design and Development.I real
 
 **Skills and Experience**
 
-- ⚛ React
-- 📱 React Native
+- ⚛ Dart
+- 📱 Flutter
 - 💻 HTML, CSS, JS
 
 
@@ -50,7 +50,7 @@ I'm Talal Habib from Pakistan, and I do content on Design and Development. I rea
 
 Skills: Flutter / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on My own Company 
+- 🔭 I’m currently working in a Company 
 - 🌱 I’m currently learning MERN Stack 
 
 
