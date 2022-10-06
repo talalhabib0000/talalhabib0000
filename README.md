@@ -2,15 +2,18 @@
 
 <h1 align="center">Talal Habib</h1>
 
-I'm Talal Habib from Pakistan, and I do content on Design and Development.I really enjoy learning languages and frameworks like React and Flutter, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+I'm Talal Habib from Pakistan, and I do content on Design and Development.I really enjoy learning languages and frameworks like React and Flutter. 
+I also enjoy wireframing, UI, UX, and design in general.
 
-- 🔭 I’m currently working on web development projects.
-- 🌱 I’m currently learning MERN Stack Development and Flutter Development.
+- 🔭 I’m currently working as a FullStack Software Engineer.
+- 🌱 I’m currently in the phase of development and improving my flutter knowledge.
 - 👯 I’m looking to collaborate with other Developers 😉
 - 🤔 I’m looking to contribute to software engineering-related work.
-- 💬 Ask me about MERN Stack Development or any tech-related stuff.
+- 💬 Ask me about Flutter Stack Development or any tech-related stuff.
 - 📫 How to reach me:  Let's get in touch! Email: talalhabib0000@gmail.com
-
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/talalhabib0000" />
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/talal-habib-9820b71b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:talalhabib0000@gmail.com?subject=Please Write Subject"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
@@ -24,9 +27,15 @@ I'm Talal Habib from Pakistan, and I do content on Design and Development.I real
 - 💻 HTML, CSS, JS
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talalhabib0000&show_icons=true&theme=radical)](https://github.com/talalhabib0000/github-readme-stats)
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true&theme=radical)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talalhabib0000&show_icons=true&theme=radical)](https://github.com/Qasid-Ali/github-readme-stats)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talalhabib0000&show_icons=true&theme=react-dark)
 
