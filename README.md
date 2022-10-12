@@ -86,11 +86,11 @@
 <table>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Talal Habib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talalhabib0000&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhabib0000&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Talal Habib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalhabib0000&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
     </tr>
@@ -99,7 +99,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/talalhabib0000/github-readme-activity-graph"><img alt="Md. Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talalhabib0000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/talalhabib0000/github-readme-activity-graph"><img alt="Talal Habib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talalhabib0000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
@@ -146,10 +146,10 @@
 <p align="center">
 <!-- <img data-target="animated-image.replacedImage" alt="img" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" width="100px" style="display: block; opacity: 1;"><br>
 <a href = "https://www.buymeacoffee.com/mdsiam" target="_blank"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="70" width="250" alt="chaudharimd" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a><br> -->
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=talalhabib0000">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=talalhabib0000">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://github.com/talalhabib0000?tab=followers"><img src="https://img.shields.io/github/followers/talalhabib0000?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
- -->
+</p> --> -->
+
 
 <!-- ## 🧮 Visitors Count
 <p align="center">
