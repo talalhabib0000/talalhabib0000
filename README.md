@@ -60,13 +60,7 @@
      
 </p>
 
-<!--
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
 
--->
 <br/>
 
 <p align="center">
@@ -103,55 +97,11 @@
 <br/>
 <br/>
 
-<!-- 
-## 📌 Pinned Repositories
-<p align="center">
-    <a href="https://github.com/md-siam/kid_starter">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=kid_starter&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/tip_calculator">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=tip_calculator&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/flutter_puzzle_hack">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=flutter_puzzle_hack&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/nilam">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=nilam&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/taja_khobor">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=taja_khobor&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/package_of_the_day">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=package_of_the_day&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/widget_of_the_day">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=widget_of_the_day&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/dhaka_stocks_price">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=dhaka_stocks_price&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-</p> -->
-
 
 ## 🔗 Connect with me:
 <p align="center">
-<a href = "https://www.linkedin.com/in/talal-habib-9820b71b6/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<!-- <a href = "https://twitter.com/Md_Siam03" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.facebook.com/md.siam.1994/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.instagram.com/md_siam/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://mdsiam.xyz/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
+<a href="https://www.linkedin.com/in/talal-habib-9820b71b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:talalhabib0000@gmail.com?subject=Please Write Subject"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<hr/>
 </p>
 
-<!-- ## ❤️ Views and Followers
-<p align="center">
-<!-- <img data-target="animated-image.replacedImage" alt="img" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" width="100px" style="display: block; opacity: 1;"><br>
-<a href = "https://www.buymeacoffee.com/mdsiam" target="_blank"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="70" width="250" alt="chaudharimd" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a><br> -->
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=talalhabib0000">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/talalhabib0000?tab=followers"><img src="https://img.shields.io/github/followers/talalhabib0000?label=Followers&style=social" alt="GitHub Badge"></a>
-</p> --> -->
-
-
-<!-- ## 🧮 Visitors Count
-<p align="center">
-<img align="center" src = "https://profile-counter.glitch.me/md-siam/count.svg" alt ="Loading">
-</p> -->
