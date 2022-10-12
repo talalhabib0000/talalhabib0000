@@ -13,7 +13,7 @@
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
     ➮ I have also worked with Azure Function, BlobStorage and cosmosdb.  <br>
     ➮ Depending on the project requirement, I use `shared_preferences` or `hive`, also can be `sqlflite` for local storage (totally depend on requirement). <br><br>
-    ☞ Hire me for your next project: <a href = "mailto: talalhabib0000@gmail.com">talalhabib0000@gmail.com</a> ☜
+    ☞ Hire me for your next project: <a href = "mailto: talalhabib0000@outlook.com">talalhabib0000@outlook.com</a> ☜
 <h4>
 
 ## 🙋‍♂️ About Me
@@ -30,7 +30,7 @@
 
 - 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/talalhabib0000?tab=repositories)**
 
-- 📫  : How to reach me **[talalhabib0000@gmail.com]()**
+- 📫  : How to reach me **[talalhabib0000@outlook.com]()**
 
 - ⚡ : Fun fact **[I love playing video games (CS:GO)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
 
@@ -101,7 +101,7 @@
 ## 🔗 Connect with me:
 <p align="center">
 <a href="https://www.linkedin.com/in/talal-habib-9820b71b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:talalhabib0000@gmail.com?subject=Please Write Subject"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:talalhabib0000@outlook.com?subject=Please Write Subject"><img src="https://img.shields.io/badge/Outlook-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook"/></a>&nbsp;
 <hr/>
 </p>
 
