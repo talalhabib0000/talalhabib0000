@@ -96,9 +96,7 @@
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=talalhabib0000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" target="_blank">
   <img alt="Talal Habib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=talalhabib0000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
 </a>
-</a>
-<br/>
-<br/>
+<br/><br/>
 
 
 ## 🔗 Connect with me:
